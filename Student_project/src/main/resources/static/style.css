@@ -1,0 +1,12 @@
+body {
+  background: #f8fafc;
+}
+
+.card {
+  box-shadow: 0 2px 8px #eaeaea;
+}
+
+#students-table td,
+#students-table th {
+  vertical-align: middle;
+}
